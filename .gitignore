@@ -1,0 +1,27 @@
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Keys
+*.pem
+*.key
+
+# Swap
+*.swp
+
+# Temp
+*.tmp
+*.temp
+
+# MAC
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node
+node_modules/
+npm-debug.log
